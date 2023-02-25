@@ -1,4 +1,4 @@
-# Forza Horizon Crash Fix
+# Forza Horizon 5 & 4 Crash Fix
 This is a Simple Script (Method) that fixes the Forza Horizon 5 &amp; Forza Horizon 4 Game Closing after 30 Minutes of playtime
 
 This is the only fix that doesn't block your taskbar/alttab/desktop etc !!
