@@ -12,3 +12,7 @@ This is the only fix that doesn't block your taskbar/alttab/desktop etc !!
 6. Open the game and enjoy playing
 
 ⚠️You will have to run this bat every time you restart your computer (not every time you restart the game) !
+
+
+## Credits
+- [@DimisSSH](https://github.com/DimisSSH)
