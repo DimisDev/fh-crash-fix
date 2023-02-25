@@ -1,6 +1,8 @@
 # Forza Horizon Crash Fix
 This is a Simple Script (Method) that fixes the Forza Horizon 5 &amp; Forza Horizon 4 Game Closing after 30 Minutes of playtime
 
+This is the only fix that doesn't block your taskbar/alttab/desktop etc !!
+
 # Installation Steps:
 1. Go to Windows Settings > Accounts > Family & Other Users (or Other Users for Win11) > add account
 2. Create the account name ```limiteduser```, and input an easy password like 123
@@ -10,5 +12,3 @@ This is a Simple Script (Method) that fixes the Forza Horizon 5 &amp; Forza Hori
 6. Open the game and enjoy playing
 
 ⚠️You will have to run this bat every time you restart your computer (not every time you restart the game) !
-This is the only fix that doesn't block your taskbar/alttab/desktop etc
-
