@@ -9,7 +9,6 @@ taskkill /f /im ForzaHorizon4.exe
 cls
 taskkill /f /im explorer.exe
 ping localhost >nul
-echo Enter the password for [limiteduser]
 runas /user:limiteduser "explorer.exe"
 cls
 echo Crash Patched, open your game!
