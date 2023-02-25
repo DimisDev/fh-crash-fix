@@ -8,5 +8,7 @@ This is a Simple Script (Method) that fixes the Forza Horizon 5 &amp; Forza Hori
 4. Download the bat file in the repositorie
 5. Run the bat file (desktop,taskbar etc. will dissapear for a few seconds) and enter the password you used for limiteduser
 6. Open the game and enjoy playing
+
+⚠️You will have to run this bat every time you restart your computer (not every time you restart the game) !
 This is the only fix that doesn't block your taskbar/alttab/desktop etc
 
