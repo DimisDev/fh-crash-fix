@@ -5,7 +5,7 @@ This is the only fix that doesn't block your taskbar/alttab/desktop etc !!
 
 # Installation Steps:
 1. Go to Windows Settings > Accounts > Family & Other Users (or Other Users for Win11) > add account
-2. Create the account name ```limiteduser```, and input an easy password like 123
+2. Press I don't have that users Microsoft account, then Create the account without Microsoft account. Create account with name ```limiteduser```, and input an easy password like 123
 3. Make Sure that the User is ```Standart User``` and create it.
 4. Download the bat file in the repositorie
 5. Run the bat file (desktop,taskbar etc. will dissapear for a few seconds) and enter the password you used for limiteduser
