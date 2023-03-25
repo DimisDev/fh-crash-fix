@@ -15,4 +15,4 @@ This is the only fix that doesn't block your taskbar/alttab/desktop etc !!
 
 
 ## Credits
-- [@DimisSSH](https://github.com/DimisSSH)
+- [@DimisDev](https://github.com/DimisDev)
