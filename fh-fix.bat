@@ -1,5 +1,5 @@
 @echo off
-title Forza Horizon Crash Fix - @DimisSSH on github
+title Forza Horizon Crash Fix - @DimisDev on github
 cls
 taskkill /f /im gamelaunchhelper.exe
 cls
